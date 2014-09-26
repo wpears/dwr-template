@@ -1,5 +1,7 @@
-Template app for DWR.
+Simple template for a GIS web app.
 
-Must be accessed over HTTP.
+Lots of comments in template.js for instructional purposes.
 
-Recently (1/9/14) updated to latest version of API.
+Check out the more fully-featured template at [https://github.com/wpears/twopane](https://github.com/wpears/twopane).
+
+See [https://github.com/wpears/dwr-web-map-resources](https://github.com/wpears/dwr-web-map-resources) for more web mapping resources.
